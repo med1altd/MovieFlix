@@ -1,18 +1,13 @@
 {
   "Status": [
     {
-      "isLive": true,
-      "isTest": false,
-      "isLiveMobile": true,
+      "isLiveMobile": false,
       "MoreUrl": "https://i.ibb.co/DtDR2cp/More.jpg",
       "isWorkingMobile": false,
       "showAdsMobile": false,
       "promote": false,
       "promoteMessage": "",
       "promoteUrl": "",
-      "isLiveTV": true,
-      "isWorkingTV": true,
-      "showAdsTV": true,
       "Message": "ΝΕΑ ΕΝΗΜΕΡΩΣΗ ΔΙΑΘΕΣΙΜΗ: v1.0.0\nΠαρακαλούμε ενημερώστε την εφαρμογή μέσω του Google Play Store, προκειμένου να συνεχίσετε να απολαμβάνετε νέο υλικό!",
       "Version": "1.0.0"
     }
