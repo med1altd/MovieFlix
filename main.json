@@ -5,9 +5,9 @@
       "MoreUrl": "https://i.ibb.co/DtDR2cp/More.jpg",
       "isWorkingMobile": false,
       "showAdsMobile": false,
-      "promote": false,
-      "promoteMessage": "",
-      "promoteUrl": "",
+      "promote": true,
+      "promoteMessage": "dsafffsfas",
+      "promoteUrl": "https://i.ibb.co/DtDR2cp/More.jpg",
       "Message": "ΝΕΑ ΕΝΗΜΕΡΩΣΗ ΔΙΑΘΕΣΙΜΗ: v1.0.0\nΠαρακαλούμε ενημερώστε την εφαρμογή μέσω του Google Play Store, προκειμένου να συνεχίσετε να απολαμβάνετε νέο υλικό!",
       "Version": "1.0.0"
     }
