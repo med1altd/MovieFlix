@@ -2,11 +2,10 @@
   "Status": [
     {
       "isLive": true,
-      "isWorking": false,
       "isTest": false,
       "isLiveMobile": true,
       "MoreUrl": "https://i.ibb.co/DtDR2cp/More.jpg",
-      "isWorkingMobile": true,
+      "isWorkingMobile": false,
       "showAdsMobile": false,
       "promote": false,
       "promoteMessage": "",
